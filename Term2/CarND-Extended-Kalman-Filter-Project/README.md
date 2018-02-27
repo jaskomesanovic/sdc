@@ -49,11 +49,11 @@ OUTPUT: values provided by the c++ program to the simulator
 
 ## Result with sensor fusion (radar, lidar)
 
-[image3]
+![image3]
 ## Result with lidar sensor
 
-[image1]
+![image1]
 ## Result with radar sensor
 
-[image2]
+![image2]
 
